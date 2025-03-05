@@ -54,6 +54,5 @@ The script includes error handling for:
 - **Database Storage**: Storing data for long-term analysis.
 - **Predictive Analysis**: Using machine learning for price prediction.
 
-## License
-This project is licensed under the MIT License.
+
 
